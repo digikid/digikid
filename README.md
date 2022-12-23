@@ -10,7 +10,7 @@
 
 💡 &nbsp;8+ years of coding experience\
 📚 &nbsp;Always learning new things\
-🇰🇿 &nbsp;I am currently in Kazakhstan\
+🇰🇿 &nbsp;I am currently in Tbilisi, Georgia\
 🚴 &nbsp;In my free time, I watch movies and ride a bike\
 🚀 &nbsp;Please have a look at my [portfolio](https://dev.digikid.ru) for more details\
 ✍️ &nbsp;You can shoot me an email at [dev@digikid.ru](mailto:dev@digikid.ru)
